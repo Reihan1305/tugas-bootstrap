@@ -1,0 +1,13 @@
+.btn-dumbways{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+@media (min-width:900px){
+    .navbar-toggler{
+        display: none;
+    }
+}
